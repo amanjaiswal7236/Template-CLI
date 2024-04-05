@@ -19,15 +19,17 @@ Before setting up and using the project generator, ensure you have the following
 
 To install the project generator globally, run the following command in your terminal:
 
+```
 npm install -g project-generator
-
+```
 
 ### Step 2: Verify Installation
 
 Once the installation is complete, you can verify that the generator is installed correctly by running:
 
+```
 generate --version
-
+```
 
 You should see the version number of the project generator printed in the terminal.
 
